@@ -42,8 +42,6 @@ void open_file_rewrite(string path, string new_string)
 	else
 	{
 		file << new_string;
-		file << ' ';
-		file << "\n";
 	}
 
 	file.close();
@@ -401,6 +399,16 @@ public:
 			helper = helper->pNext;
 		}
 		return str;
+	}
+
+	int GetSizeW()
+	{
+		return sizeWords;
+	}
+
+	int GetSizeS()
+	{
+		return sizeString;
 	}
 };
 
