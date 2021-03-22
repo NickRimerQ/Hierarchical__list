@@ -1,0 +1,9 @@
+﻿  Source.cpp
+C:\Users\Наталия\source\repos\Hierarchical__list\Source.cpp(153,18): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Наталия\source\repos\Hierarchical__list\Source.cpp(168,13): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Наталия\source\repos\Hierarchical__list\Source.cpp(190,14): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Наталия\source\repos\Hierarchical__list\Source.cpp(230,18): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Наталия\source\repos\Hierarchical__list\Source.cpp(245,13): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Наталия\source\repos\Hierarchical__list\Source.cpp(267,14): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Наталия\source\repos\Hierarchical__list\Source.cpp(390,23): warning C4018: '<': signed/unsigned mismatch
+  Hierarchical__list.vcxproj -> C:\Users\Наталия\source\repos\Hierarchical__list\Debug\Hierarchical__list.exe
